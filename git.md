@@ -24,7 +24,7 @@ git的组成
 [图解git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 
 [指针与分支图形化][2]
-![image_1b2gkqnt8k43f9f1hisgsor2b44.png-45.5kB][3]
+![image_1b2gkqnt8k43f9f1hisgsor2b44.png-45.5kB][3]11
 
 
 
@@ -35,7 +35,7 @@ git的组成
 
 - add 把工作区的改变提交到暂存区
 
-- commit 把暂存区的缓存提交到本地仓库
+- commit 把暂存区的缓存提交到本地仓库11111111111
 
 - status 查看当前状态
 
